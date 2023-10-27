@@ -34,9 +34,11 @@ This application allows the user an easy way to create a SVG logo.
 - Once that is complete, a file named "logo.svg" will be created
 - This file will have your newly created logo
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Video: https://watch.screencastify.com/v/M7i8JAKvHM02LkecNgW8
+
+
+![application-in-terminal](assets/images/terminal.png)
+
 
 ## Tests
 
